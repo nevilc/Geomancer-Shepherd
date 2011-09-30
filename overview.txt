@@ -1,0 +1,24 @@
+Geomancer Shepherd
+by Colin Neville (elcow)
+
+Geomancer Shepherd's source has been hosted for posterity's sake, do NOT regard it as instructive of good or sane programming practices, it was created under extreme time constraints.
+
+Being a geomancer is rewarding work, but sometimes demand for your services is slow. Between jobs, you work as the local shepherd. Being out in the pasture gives you plenty of opportunity to practice your wizardry however. In a freak subduction accident, you have unwittingly unleashed a hailstorm of fire! Use your powers to drive as many of the sheep as you can to their pen, gather some inexplicable stars for some reason, then escape to your portal!
+
+Controls:
+w: jump
+a: left
+d: right
+
+mouse: magic target location
+left click: pull ground
+right click: push ground
+
+As a geomancer, you have the power to manipulate earth. You power is stronger the closer you are to the target. The green circle shows you the strength at the current location. Careful, shaping the ground into odd arrangements may disturb the precarious balance of geomancy, leading to disappearing triangles, etc.! Shape the ground to guide sheep into the pen and reach stars. Position yourself and the ground to achieve this as quickly as possible. Be warned, fire spawns increasingly quickly, and touching it will cause you to restart the level. Complete the level by reaching the portal. There are two levels.
+
+Scoring
+per sheep in pen: 50 points
+per star collected: 10 points
+time: 0 (just pretend it matters, aim for a low time with as many points possible!)
+
+Thank you for playing!
